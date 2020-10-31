@@ -8,3 +8,6 @@
 
 1. เพื่อศึกษาเทคโนโลยี Bluetooth Low Energy ในการระบุตำแหน่ง
 2. เพื่อพัฒนาระบบติดตามผู้สูงอายุและแจ้งเตือนแก่ผู้ดูแล ผ่าน Web Application และ LINE Notify
+
+### ตัวอย่างระบบ
+![alt text](https://github.com/aot5454/Indoor-Elderly-Monitoring-System-by-Using-Bluetooth-Low-Energy/blob/main/Screen/screen001.png)
